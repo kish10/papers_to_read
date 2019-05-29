@@ -16,14 +16,14 @@ Arthur Jacot, Franck Gabriel, Clément Hongler
 
 1. What is the connection between Gaussian Processes & Kernel Methods?
 
-2. What does "infinite width" or "limiting kernel" mean?
+2. What does "infinite width" or "limiting kernel" mean?  
 2.1. What is the significance/consequences of these?
 
 3. What is "Kernel Gradient Descent"?
 
 4. Why is positive-definiteness important? Why do we care? And what does it tell us?
 
-    > Convergence of the training can then can then be related to the *positive-definiteness* of the limiting NTK *when the data is supported on the sphere* and the non-linearity is non-polynomial.
+    > Convergence of the training can then be related to the *positive-definiteness* of the limiting NTK *when the data is supported on the sphere* and the non-linearity is non-polynomial.
 
 5. Why is the the condition that the data needs to be supported on the sphere needed?
 
@@ -43,8 +43,8 @@ Arthur Jacot, Franck Gabriel, Clément Hongler
 
     > [12] M. Leshno, V. Lin, A. Pinkus, and S. Schocken. Multilayer feedforward networks with a non-polynomial activation function can approximate any function. Neural Networks, 6(6):861–867,1993
 
-2. How exactly (in a quantitative snese) do saddle point do saddle points slow down the convergence?
-    > Indeed the loss surface of neural networks optimization problems is highly non-convex: it has a high numberof saddle points which may slow down the convergence (5).
+2. How exactly (in a quantitative sense) do saddle points slow down the convergence?
+    > Indeed the loss surface of neural networks optimization problems is highly non-convex: it has a high number of saddle points which may slow down the convergence (5).
 
 3. Why?
 
