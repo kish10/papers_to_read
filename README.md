@@ -9,10 +9,15 @@ Arthur Jacot, Franck Gabriel, Clément Hongler.
 -- [write up](ml/convergence_and_generalization_properties_of_nns/Neural-Tangent-Kernel_Convergence-and-Generalization-in-Neural-Networks_nov-2018.md)
 -- (Recommended by D.Roy, May 13, 2019)
 
+Guillermo Valle-Pérez, Chico Q. Camargo, Ard A. Louis.  
+[Deep learning generalizes because the parameter-function map is biased towards simple functions.  
+(April, 2019)](https://arxiv.org/abs/1805.08522)  
+-- (Recommended by D.Roy, May 13, 2019)
+
 
 ## Disentangeled Representation
-Sten Sootlasetn.
-[Curated list of Disentangles Representation papers](https://github.com/sootlasten/disentangled-representation-papers)
+Sten Sootlasetn.  
+[Curated list of Disentangles Representation papers](https://github.com/sootlasten/disentangled-representation-papers)  
 -- (Sent by Daniel, May 26, 2019)
 
 
