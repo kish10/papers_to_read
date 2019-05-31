@@ -19,6 +19,10 @@ Simon S. Du, Jason D. Lee, Haochuan Li, Liwei Wang, Xiyu Zhai
 (Nov 2018)](https://arxiv.org/abs/1811.03804)  
 -- (Mentioned by D.Roy, Nov, 2018 ?)
 
+Yazhen Wang  
+[Asymptotic Analysis via Stochastic Differential Equations of Gradient Descent Algorithms in Statistical and Computational Paradigms.  
+(Dec 2018)](https://arxiv.org/abs/1711.09514)
+
 
 ## Disentangeled Representation
 Sten Sootlasetn.  
