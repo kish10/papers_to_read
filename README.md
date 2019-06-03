@@ -52,11 +52,18 @@ D.P. Kingma, M. Welling
 [Auto-Encoding Variational Bayes](https://arxiv.org/abs/1312.6114)
 The International Conference on Learning Representations (ICLR), Banff, 2014
 
-### GANs
+### Generative Advesarial Networks
 
 Ian J. Goodfellow, Jean Pouget-Abadie, Mehdi Mirza, Bing Xu, David Warde-Farley, Sherjil Ozair, Aaron Courville, Yoshua Bengio
 [Generative Adversarial Networks](https://arxiv.org/abs/1406.2661)
 (Submitted on 10 Jun 2014)
+
+
+## Graph Neural Networks
+
+Jie Zhou, Ganqu Cui, Zhengyan Zhang, Cheng Yang, Zhiyuan Liu, Lifeng Wang, Changcheng Li, Maosong Sun
+[Graph Neural Networks: A Review of Methods and Applications.  
+Mar 2019](https://arxiv.org/abs/1812.08434)
 
 
 ## Statistics
