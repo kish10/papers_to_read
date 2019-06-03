@@ -30,8 +30,9 @@ Sten Sootlasetn.
 -- (Sent by Daniel, May 26, 2019)
 
 Irina Higgins, David Amos, David Pfau, Sebastien Racaniere, Loic Matthey, Danilo Rezende, Alexander Lerchner  
-[Towards a Definition of Disentangled Representations](https://arxiv.org/abs/1812.02230v1)
-
+[Towards a Definition of Disentangled Representations  
+(Dec 2018)](https://arxiv.org/abs/1812.02230v1)  
+-- [write up](disentangled_representation/towards-a-definition-of-disentangled-representation.md)
 
 ## PAC-Bayes
 
@@ -43,6 +44,19 @@ Pascal Germain (INRIA Paris), Francis Bach (INRIA Paris), Alexandre Lacoste (Goo
 [PAC-Bayesian Theory Meets Bayesian Inference (Feb, 2017)](https://arxiv.org/pdf/1605.08636.pdf)  
 -- (Sent by Daniel, May, 2019)
 
+## Generative Models
+
+### Variational AutoEncoders
+
+D.P. Kingma, M. Welling
+[Auto-Encoding Variational Bayes](https://arxiv.org/abs/1312.6114)
+The International Conference on Learning Representations (ICLR), Banff, 2014
+
+### GANs
+
+Ian J. Goodfellow, Jean Pouget-Abadie, Mehdi Mirza, Bing Xu, David Warde-Farley, Sherjil Ozair, Aaron Courville, Yoshua Bengio
+[Generative Adversarial Networks](https://arxiv.org/abs/1406.2661)
+(Submitted on 10 Jun 2014)
 
 
 ## Statistics
