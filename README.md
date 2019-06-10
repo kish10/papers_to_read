@@ -58,12 +58,17 @@ Ian J. Goodfellow, Jean Pouget-Abadie, Mehdi Mirza, Bing Xu, David Warde-Farley,
 [Generative Adversarial Networks](https://arxiv.org/abs/1406.2661)
 (Submitted on 10 Jun 2014)
 
+### Autoregressive Models
+
 
 ## Graph Neural Networks
 
 Jie Zhou, Ganqu Cui, Zhengyan Zhang, Cheng Yang, Zhiyuan Liu, Lifeng Wang, Changcheng Li, Maosong Sun
 [Graph Neural Networks: A Review of Methods and Applications.  
 Mar 2019](https://arxiv.org/abs/1812.08434)
+
+
+## Modular Neural Networks
 
 
 ## Statistics
