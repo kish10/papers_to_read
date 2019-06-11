@@ -2,6 +2,12 @@
 
 ## Machine Learning
 
+### Automatic Differentiation
+Atilim Gunes Baydin, Barak A. Pearlmutter, Alexey Andreyevich Radul, Jeffrey Mark Siskind
+[Automatic differentiation in machine learning: a survey  
+(Feb 2015)](https://arxiv.org/abs/1502.05767)
+
+
 ### Black Boxness of Neural Networks
 Pang Wei Koh1Percy Liang1
 [Understanding Black-box Predictions via Influence Functions.  
