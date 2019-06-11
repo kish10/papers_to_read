@@ -2,6 +2,12 @@
 
 ## Machine Learning
 
+### Black Boxness of Neural Networks
+Pang Wei Koh1Percy Liang1
+[Understanding Black-box Predictions via Influence Functions.  
+(July, 2017)](https://arxiv.org/pdf/1703.04730.pdf)
+-- (Recommended by Daniel, June 11, 2019)
+
 ### Convergence & Generalization Properties of Neural Networks
 Arthur Jacot, Franck Gabriel, Clément Hongler.  
 [Neural Tangent Kernel: Convergence and Generalization in Neural Networks.  
