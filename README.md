@@ -1,5 +1,14 @@
 # paper_reviews
 
+## Anomaly Detection
+Holger Dette, Weichi Wu, Zhou Zhou
+[Change point analysis of second order characteristics in non-stationary time series
+(Mar 2015)](https://arxiv.org/abs/1503.08610)
+
+Raghavendra Chalapathy, Sanjay Chawla.
+[Deep Learning for Anomaly Detection: A Survey
+(Jan 2019)](https://arxiv.org/abs/1901.03407)
+
 ## Machine Learning
 
 ### Automatic Differentiation
@@ -46,6 +55,11 @@ Irina Higgins, David Amos, David Pfau, Sebastien Racaniere, Loic Matthey, Danilo
 (Dec 2018)](https://arxiv.org/abs/1812.02230v1)  
 -- [write up](disentangled_representation/towards-a-definition-of-disentangled-representation.md)
 
+## Natural Language Processing
+David Blei, Andrew Ng, Michael Jordan
+[Latent Dirichlet Allocation
+(2003)](http://www.jmlr.org/papers/volume3/blei03a/blei03a.pdf)
+
 ## PAC-Bayes
 
 Fran ̧cois Laviolette, Mario Marchand  
@@ -63,6 +77,24 @@ Pascal Germain (INRIA Paris), Francis Bach (INRIA Paris), Alexandre Lacoste (Goo
 D.P. Kingma, M. Welling
 [Auto-Encoding Variational Bayes](https://arxiv.org/abs/1312.6114)
 The International Conference on Learning Representations (ICLR), Banff, 2014
+
+Diederik P. Kingma, Danilo J. Rezende, Shakir Mohamed, Max Welling
+[Semi-Supervised Learning with Deep Generative Models.  
+Oct 2014](https://arxiv.org/abs/1406.5298)
+
+Jack Klys, Jake Snell, Richard Zemel
+[Learning Latent Subspaces inVariational Autoencoders.  
+2018](http://www.cs.toronto.edu/~zemel/documents/Conditional_Subspace_VAE_all.pdf)
+NIPS
+
+Yang Li, Quan Pan, Suhang Wang, Haiyun Peng, Tao Yan, Erik Cambri
+[Disentangled Variational Auto-Encoder for semi-supervised learning.  
+May 2019](https://doi.org/10.1016/j.ins.2018.12.057)  
+Information Sciences
+
+Causal Effect Inference with Deep Latent-Variable Models
+Christos Louizos, Uri Shalit, Joris Mooij, David Sontag, Richard Zemel, Max Welling
+(Submitted on 24 May 2017 (v1), last revised 6 Nov 2017 (this version, v2))
 
 ### Generative Advesarial Networks
 
@@ -89,4 +121,12 @@ Mar 2019](https://arxiv.org/abs/1812.08434)
 Yanwu Gu, Weijun Li, Michael Evans, Berthold-Georg Englert  
 [Very strong evidence in favor of quantum mechanics and against local hidden variables from a Bayesian analysis   
 (Jan 2019)](https://arxiv.org/pdf/1808.06863.pdf)
+
+### Model Specifications
+
+#### ROC Curves 
+
+Nancy A Obuchowski, Jennifer A Bullen
+[Receiver operating characteristic (ROC) curves: review of methods with applications in diagnostic medicine  
+(March 2018)](https://iopscience.iop.org/article/10.1088/1361-6560/aab4b1)
 
