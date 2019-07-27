@@ -45,7 +45,12 @@ Yazhen Wang
 (Dec 2018)](https://arxiv.org/abs/1711.09514)
 
 
-## Disentangeled Representation
+### Convolution Neural Networks
+Alex Krizhevsky, Ilya Sutskever, Geoffrey E. Hinton
+[ImageNet Classification with Deep Convolutional Neural Networks
+(NIPS 2012)](http://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networ)
+
+### Disentangeled Representation
 Sten Sootlasetn.  
 [Curated list of Disentangles Representation papers](https://github.com/sootlasten/disentangled-representation-papers)  
 -- (Sent by Daniel, May 26, 2019)
@@ -107,10 +112,35 @@ Ian J. Goodfellow, Jean Pouget-Abadie, Mehdi Mirza, Bing Xu, David Warde-Farley,
 
 ## Graph Neural Networks
 
+Franco Scarcselli, Marco Gori, Ah Chung Tsoi, Markus Hagenbuchner, Gabriele Monfardini
+[The graph neural network model
+(2009)](https://arxiv.org/pdf/1511.05493.pdf#cite.scarselli2009graph)
+
+Scarselli, Franco, Gori, Marco, Tsoi, Ah Chung, , Markus, and , Gabriele.The graph neural network model.
+
+
+Jiaxuan You, Bowen Liu, Rex Ying, Vijay Pande, Jure Leskovec
+[Graph Convolutional Policy Network for Goal-Directed Molecular Graph Generation
+(June 2018)](https://arxiv.org/abs/1806.02473)
+-- (Recomended by Daniel July 2019)
+
 Jie Zhou, Ganqu Cui, Zhengyan Zhang, Cheng Yang, Zhiyuan Liu, Lifeng Wang, Changcheng Li, Maosong Sun
 [Graph Neural Networks: A Review of Methods and Applications.  
 Mar 2019](https://arxiv.org/abs/1812.08434)
 
+Renjie Liao, Zhizhen Zhao, Raquel Urtasun, Richard S. Zemel
+[LanczosNet: Multi-Scale Deep Graph Convolutional Networks
+(Jan 2019)](https://arxiv.org/abs/1901.01484)
+
+THUNLP - Natural Language Processing Lab at Tsinghua University
+[Must-read papers on GNN](https://github.com/thunlp/GNNPapers)
+
+Yujia Li, Daniel Tarlow, Marc Brockschmidt, Richard Zemel
+[Gated Graph Sequence Neural Networks
+(Nov 2019)](https://arxiv.org/abs/1511.05493)
+
+- deep generation of graphs
+- goal directed conv policy net
 
 ## Modular Neural Networks
 
@@ -121,6 +151,8 @@ Mar 2019](https://arxiv.org/abs/1812.08434)
 Yanwu Gu, Weijun Li, Michael Evans, Berthold-Georg Englert  
 [Very strong evidence in favor of quantum mechanics and against local hidden variables from a Bayesian analysis   
 (Jan 2019)](https://arxiv.org/pdf/1808.06863.pdf)
+-- [code](https://github.com/lrjconan/LanczosNetwork)
+-- (Recomended by Danel July 2019 for code)
 
 ### Model Specifications
 
