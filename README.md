@@ -123,10 +123,7 @@ Bill Freeman andAntonio Torralba
 
 Franco Scarcselli, Marco Gori, Ah Chung Tsoi, Markus Hagenbuchner, Gabriele Monfardini
 [The graph neural network model
-(2009)](https://arxiv.org/pdf/1511.05493.pdf#cite.scarselli2009graph)
-
-Scarselli, Franco, Gori, Marco, Tsoi, Ah Chung, , Markus, and , Gabriele.The graph neural network model.
-
+(2009)](https://persagen.com/files/misc/scarselli2009graph.pdf)
 
 Jiaxuan You, Bowen Liu, Rex Ying, Vijay Pande, Jure Leskovec
 [Graph Convolutional Policy Network for Goal-Directed Molecular Graph Generation
