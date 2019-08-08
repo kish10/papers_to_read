@@ -140,6 +140,10 @@ Renjie Liao, Zhizhen Zhao, Raquel Urtasun, Richard S. Zemel
 [LanczosNet: Multi-Scale Deep Graph Convolutional Networks
 (Jan 2019)](https://arxiv.org/abs/1901.01484)
 
+Thomas N. Kipf, Max Welling
+[Semi-Supervised Classification with Graph Convolutional Networks
+(Sep 2016)](https://arxiv.org/abs/1609.02907)
+
 THUNLP - Natural Language Processing Lab at Tsinghua University
 [Must-read papers on GNN](https://github.com/thunlp/GNNPapers)
 
