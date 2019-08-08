@@ -128,6 +128,9 @@ Jie Zhou, Ganqu Cui, Zhengyan Zhang, Cheng Yang, Zhiyuan Liu, Lifeng Wang, Chang
 [Graph Neural Networks: A Review of Methods and Applications.  
 Mar 2019](https://arxiv.org/abs/1812.08434)
 
+Jure Leskovec (SNAP)
+[WWW-18 Tutorial - Representation Learning on Graphs](http://snap.stanford.edu/proj/embeddings-www/)
+
 Renjie Liao, Zhizhen Zhao, Raquel Urtasun, Richard S. Zemel
 [LanczosNet: Multi-Scale Deep Graph Convolutional Networks
 (Jan 2019)](https://arxiv.org/abs/1901.01484)
