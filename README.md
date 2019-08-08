@@ -124,6 +124,11 @@ Jiaxuan You, Bowen Liu, Rex Ying, Vijay Pande, Jure Leskovec
 (June 2018)](https://arxiv.org/abs/1806.02473)
 -- (Recomended by Daniel July 2019)
 
+Jiaxuan You, Rex Ying, Xiang Ren, William L. Hamilton, Jure Leskovec
+[GraphRNN: Generating Realistic Graphs with Deep Auto-regressive Models
+(ICML 2018)](https://arxiv.org/abs/1802.08773)
+-- (Recomended by Daniel Aug 2019)
+
 Jie Zhou, Ganqu Cui, Zhengyan Zhang, Cheng Yang, Zhiyuan Liu, Lifeng Wang, Changcheng Li, Maosong Sun
 [Graph Neural Networks: A Review of Methods and Applications.  
 Mar 2019](https://arxiv.org/abs/1812.08434)
