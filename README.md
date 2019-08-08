@@ -162,6 +162,10 @@ Yujia Li, Daniel Tarlow, Marc Brockschmidt, Richard Zemel
 
 ### Modular Neural Networks
 
+### Recursive/Recurrent Neural Networks
+Andrej Karpathy
+[The Unreasonable Effectiveness of Recurrent Neural Networks
+(May 2015)](http://karpathy.github.io/2015/05/21/rnn-effectiveness/)
 
 ## Statistics
 
