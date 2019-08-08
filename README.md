@@ -50,6 +50,10 @@ Alex Krizhevsky, Ilya Sutskever, Geoffrey E. Hinton
 [ImageNet Classification with Deep Convolutional Neural Networks
 (NIPS 2012)](http://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networ)
 
+### Datasets
+
+[Datasets on Antonio Torralba's site](http://web.mit.edu/torralba/www//)
+
 ### Disentangeled Representation
 Sten Sootlasetn.  
 [Curated list of Disentangles Representation papers](https://github.com/sootlasten/disentangled-representation-papers)  
@@ -60,12 +64,12 @@ Irina Higgins, David Amos, David Pfau, Sebastien Racaniere, Loic Matthey, Danilo
 (Dec 2018)](https://arxiv.org/abs/1812.02230v1)  
 -- [write up](disentangled_representation/towards-a-definition-of-disentangled-representation.md)
 
-## Natural Language Processing
+### Natural Language Processing
 David Blei, Andrew Ng, Michael Jordan
 [Latent Dirichlet Allocation
 (2003)](http://www.jmlr.org/papers/volume3/blei03a/blei03a.pdf)
 
-## PAC-Bayes
+### PAC-Bayes
 
 Fran ̧cois Laviolette, Mario Marchand  
 [PAC-Bayes Risk Bounds for Sample-Compressed Gibbs Classifiers]  
@@ -75,9 +79,9 @@ Pascal Germain (INRIA Paris), Francis Bach (INRIA Paris), Alexandre Lacoste (Goo
 [PAC-Bayesian Theory Meets Bayesian Inference (Feb, 2017)](https://arxiv.org/pdf/1605.08636.pdf)  
 -- (Sent by Daniel, May, 2019)
 
-## Generative Models
+### Generative Models
 
-### Variational AutoEncoders
+#### Variational AutoEncoders
 
 D.P. Kingma, M. Welling
 [Auto-Encoding Variational Bayes](https://arxiv.org/abs/1312.6114)
@@ -101,16 +105,21 @@ Causal Effect Inference with Deep Latent-Variable Models
 Christos Louizos, Uri Shalit, Joris Mooij, David Sontag, Richard Zemel, Max Welling
 (Submitted on 24 May 2017 (v1), last revised 6 Nov 2017 (this version, v2))
 
-### Generative Advesarial Networks
+#### Generative Advesarial Networks
 
 Ian J. Goodfellow, Jean Pouget-Abadie, Mehdi Mirza, Bing Xu, David Warde-Farley, Sherjil Ozair, Aaron Courville, Yoshua Bengio
 [Generative Adversarial Networks](https://arxiv.org/abs/1406.2661)
 (Submitted on 10 Jun 2014)
 
-### Autoregressive Models
+#### Autoregressive Models
 
+### Graphical Models
 
-## Graph Neural Networks
+Bill Freeman andAntonio Torralba
+[Lecture 7: graphical models and belief propagation
+(2010)](http://helper.ipam.ucla.edu/publications/gss2013/gss2013_11344.pdf)
+
+### Graph Neural Networks
 
 Franco Scarcselli, Marco Gori, Ah Chung Tsoi, Markus Hagenbuchner, Gabriele Monfardini
 [The graph neural network model
@@ -154,7 +163,7 @@ Yujia Li, Daniel Tarlow, Marc Brockschmidt, Richard Zemel
 - deep generation of graphs
 - goal directed conv policy net
 
-## Modular Neural Networks
+### Modular Neural Networks
 
 
 ## Statistics
