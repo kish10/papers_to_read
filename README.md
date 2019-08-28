@@ -23,6 +23,17 @@ Pang Wei Koh1Percy Liang1
 (July, 2017)](https://arxiv.org/pdf/1703.04730.pdf)
 -- (Recommended by Daniel, June 11, 2019)
 
+### Causal Inference - ML
+Michel Besserve, Dominik Janzing, Bernhard Schoelkopf
+[On The Difference Between Building and Ex-Tracting Patterns: A Causal Analysis of Deep Generative Models. 
+(ICLR 2018) - open review](https://openreview.net/forum?id=SySisz-CW)
+-- Rejected paper
+
+Raphael Suter, Đorđe Miladinović, Bernhard Schölkopf, Stefan Bauer
+[Robustly Disentangled Causal Mechanisms: Validating Deep Representations for Interventional Robustness
+(ICML, May 2019)](https://arxiv.org/abs/1811.00007)
+
+
 ### Convergence & Generalization Properties of Neural Networks
 Arthur Jacot, Franck Gabriel, Clément Hongler.  
 [Neural Tangent Kernel: Convergence and Generalization in Neural Networks.  
@@ -55,14 +66,18 @@ Alex Krizhevsky, Ilya Sutskever, Geoffrey E. Hinton
 [Datasets on Antonio Torralba's site](http://web.mit.edu/torralba/www//)
 
 ### Disentangeled Representation
-Sten Sootlasetn.  
-[Curated list of Disentangles Representation papers](https://github.com/sootlasten/disentangled-representation-papers)  
--- (Sent by Daniel, May 26, 2019)
+Francesco Locatello, Stefan Bauer, Mario Lucic, Gunnar Rätsch, Sylvain Gelly, Bernhard Schölkopf, Olivier Bachem
+[Challenging Common Assumptions in the Unsupervised Learning of Disentangled Representations
+(Nov 2018)](https://arxiv.org/abs/1811.12359)
 
 Irina Higgins, David Amos, David Pfau, Sebastien Racaniere, Loic Matthey, Danilo Rezende, Alexander Lerchner  
 [Towards a Definition of Disentangled Representations  
 (Dec 2018)](https://arxiv.org/abs/1812.02230v1)  
 -- [write up](disentangled_representation/towards-a-definition-of-disentangled-representation.md)
+
+Sten Sootlasetn.  
+[Curated list of Disentangled Representation papers](https://github.com/sootlasten/disentangled-representation-papers)  
+-- (Sent by Daniel, May 26, 2019)
 
 ### Natural Language Processing
 David Blei, Andrew Ng, Michael Jordan
