@@ -4,17 +4,15 @@ import torch
 from torch import nn, optim
 from torch.nn import functional as F
 from torchvision import datasets, transforms
-from torchvision.utils import save_image
+
 
 HOME = os.getcwd().split('paper_reviews')[0]
 DATA_DIR = os.path.join(HOME, 'data')
 RESULTS_DIR = os.path.join(HOME, 'results','weight_uncertainty_in_nns')
 
-def get_data_loaders():
-    # Get data
+def get_data_loaders(use_cuda = False, batch_size = 128):
+    """Returns pytorch train & test data loaders"""
 
-    use_cuda = False
-    batch_size = 128
     kwargs = {'num_workers': 1, 'pin_memory': True} if use_cuda else {}
 
     train_loader = torch.utils.data.DataLoader(
@@ -28,7 +26,6 @@ def get_data_loaders():
         shuffle = True,
         **kwargs
     )
-
 
     test_loader = torch.utils.data.DataLoader(
         dataset = datasets.MNIST(
@@ -48,7 +45,7 @@ class NN(nn.Module):
     def __init__(self):
         super(NN, self).__init__()
         
-        # Specify number of parameters in the different layers
+        # specify the linear components of the NN layers
         self.linL1 = nn.Linear(784, 20) # 784 pixels per image
         self.linL2 = nn.Linear(20, 10) # output 10 probabilites for each digit
 
