@@ -1,4 +1,4 @@
-# paper_reviews
+# Papers To Read
 
 ## Anomaly Detection
 Holger Dette, Weichi Wu, Zhou Zhou
@@ -126,7 +126,7 @@ Ian J. Goodfellow, Jean Pouget-Abadie, Mehdi Mirza, Bing Xu, David Warde-Farley,
 [Generative Adversarial Networks](https://arxiv.org/abs/1406.2661)
 (Submitted on 10 Jun 2014)
 
-#### Autoregressive Models
+### Autoregressive Models
 
 ### Graphical Models
 
@@ -181,6 +181,18 @@ Yujia Li, Daniel Tarlow, Marc Brockschmidt, Richard Zemel
 Andrej Karpathy
 [The Unreasonable Effectiveness of Recurrent Neural Networks
 (May 2015)](http://karpathy.github.io/2015/05/21/rnn-effectiveness/)
+
+### Time Series
+Angus Dempster, François Petitjean, Geoffrey I. Webb
+[ROCKET: Exceptionally fast and accurate time series classification using random convolutional kernels (Oct 2019)](https://arxiv.org/abs/1910.13051)
+
+Hassan Ismail Fawaz, Germain Forestier, Jonathan Weber, Lhassane Idoumghar, Pierre-Alain Muller
+[Deep learning for time series classification: a review (Sep 2018, latest May 2019)](https://arxiv.org/pdf/1809.04356v4.pdf)
+
+Jean-Yves Franceschi (MLIA), Aymeric Dieuleveut (CMAP), Martin Jaggi
+[Unsupervised Scalable Representation Learning for Multivariate Time Series (Jan 2019, latest Jan 2020)](https://arxiv.org/pdf/1901.10738v4.pdf)
+
+#### Time Series Classification
 
 ## Statistics
 
