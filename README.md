@@ -183,16 +183,30 @@ Andrej Karpathy
 (May 2015)](http://karpathy.github.io/2015/05/21/rnn-effectiveness/)
 
 ### Time Series
+
+#### General Review Papers
+John Cristian Borges Gamboa
+[Deep Learning for Time-Series Analysis (Jan 2017)](https://arxiv.org/pdf/1701.01887.pdf)
+
+#### Time Series Classification
+
 Angus Dempster, François Petitjean, Geoffrey I. Webb
 [ROCKET: Exceptionally fast and accurate time series classification using random convolutional kernels (Oct 2019)](https://arxiv.org/abs/1910.13051)
 
+Anthony Bagnall, Aaron Bostrom, James Large, Jason Lines
+[The Great Time Series Classification Bake Off: An Experimental Evaluation of Recently Proposed Algorithms. Extended Version (Feb 2016)](https://arxiv.org/pdf/1602.01711.pdf)
+
 Hassan Ismail Fawaz, Germain Forestier, Jonathan Weber, Lhassane Idoumghar, Pierre-Alain Muller
 [Deep learning for time series classification: a review (Sep 2018, latest May 2019)](https://arxiv.org/pdf/1809.04356v4.pdf)
+Zhiguang Wang, Weizhong Yan, Tim Oates
+[Time Series Classification from Scratch with Deep Neural Networks: A Strong (Nov 2016, latest Dec 2016)](https://arxiv.org/abs/1611.06455)
+
+
+#### Time Series Unsupervised learning
 
 Jean-Yves Franceschi (MLIA), Aymeric Dieuleveut (CMAP), Martin Jaggi
 [Unsupervised Scalable Representation Learning for Multivariate Time Series (Jan 2019, latest Jan 2020)](https://arxiv.org/pdf/1901.10738v4.pdf)
 
-#### Time Series Classification
 
 ## Statistics
 
