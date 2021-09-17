@@ -61,6 +61,11 @@ Alex Krizhevsky, Ilya Sutskever, Geoffrey E. Hinton
 [ImageNet Classification with Deep Convolutional Neural Networks
 (NIPS 2012)](http://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networ)
 
+### Convolution Kernel Networks
+
+Julien Mairal, Piotr Koniusz, Zaid Harchaoui, and CordeliaSchmid
+[Convolutional Kernel Networks (June 2014, latest Nov 2014)](https://arxiv.org/pdf/1406.3332.pdf)
+
 ### Datasets
 
 [Datasets on Antonio Torralba's site](http://web.mit.edu/torralba/www//)
@@ -83,6 +88,7 @@ Sten Sootlasetn.
 David Blei, Andrew Ng, Michael Jordan
 [Latent Dirichlet Allocation
 (2003)](http://www.jmlr.org/papers/volume3/blei03a/blei03a.pdf)
+
 
 ### PAC-Bayes
 
@@ -175,6 +181,14 @@ Yujia Li, Daniel Tarlow, Marc Brockschmidt, Richard Zemel
 - deep generation of graphs
 - goal directed conv policy net
 
+### Kernel Descriptors
+
+Liefeng Bo, Xiaofeng Ren, Dieter Fox
+[Kernel Descriptors for Visual Recognition (NEUROIPS Dec 2010)](https://proceedings.neurips.cc/paper/2010/file/4558dbb6f6f8bb2e16d03b85bde76e2c-Paper.pdf)
+
+Liefeng Bo, Kevin Lai, Xiaofeng Ren, Dieter Fox,
+[Object Recognition with Hierarchical Kernel Descriptors (CVPR 2011)](https://research.cs.washington.edu/istc/lfb/paper/cvpr11.pdf)
+
 ### Modular Neural Networks
 
 ### Recursive/Recurrent Neural Networks
@@ -207,6 +221,23 @@ Zhiguang Wang, Weizhong Yan, Tim Oates
 Jean-Yves Franceschi (MLIA), Aymeric Dieuleveut (CMAP), Martin Jaggi
 [Unsupervised Scalable Representation Learning for Multivariate Time Series (Jan 2019, latest Jan 2020)](https://arxiv.org/pdf/1901.10738v4.pdf)
 
+### Random features
+
+Ali Rahimi, Benjamin Recht
+[Random Features for Large-Scale Kernel Machines (NEURIPS 2007](https://proceedings.neurips.cc/paper/2007/file/013a006f03dbc5392effeb8f18fda755-Paper.pdf)
+
+### Random shallow networks
+
+Alyssa Morrow, Vaishaal Shankar, Devin Petersohn, Anthony Joseph, Benjamin Recht, Nir Yosef
+[Convolutional Kitchen Sinks for Transcription FactorBinding Site Prediction (May 2017)](https://arxiv.org/abs/1706.00125)
+
+Ali Rahimi, Benjamin Recht
+[Weighted Sums of Random Kitchen Sinks: Replacingminimization with randomization in learning (NEUROIPS 2008)](https://papers.nips.cc/paper/2008/file/0efe32849d230d7f53049ddc4a4b0c60-Paper.pdf)
+
+### Random weights
+
+ Andrew M. Saxe , Pang Wei Koh , Zhenghao Chen , Maneesh Bh , Bipin Suresh , Andrew Y. Ng 
+[On Random Weights and Unsupervised Feature Learning (ICML 2011)](http://ai.stanford.edu/~ang/papers/icml11-RandomWeights.pdf)
 
 ## Statistics
 
