@@ -196,6 +196,13 @@ Andrej Karpathy
 [The Unreasonable Effectiveness of Recurrent Neural Networks
 (May 2015)](http://karpathy.github.io/2015/05/21/rnn-effectiveness/)
 
+### Reinforcement Learning
+
+#### Control Theory
+
+Max Simchowitz, Karan Singh, Elad Hazan
+[Improper Learning for Non-Stochastic Control (June, 2020)](https://proceedings.mlr.press/v125/simchowitz20a/simchowitz20a.pdf)
+
 ### Time Series
 
 #### General Review Papers
