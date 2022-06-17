@@ -4,3 +4,6 @@ Didrik Nielsen
 
 ## 9 Why Does XGBoost Win "Every" Competition?
 
+### 9.1 Boosting With Tree Stumps in One Dimension
+
+'
